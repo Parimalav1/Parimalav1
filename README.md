@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Parimala!
-I'm a full-stack developer seeking jobs with 1yr experience.
+I'm a full-stack developer with 1yr experience seeking employment.
 
 My Skillset
 

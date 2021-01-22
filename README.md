@@ -9,7 +9,6 @@ My Skillset
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">

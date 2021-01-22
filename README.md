@@ -8,7 +8,6 @@ My Skillset
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 

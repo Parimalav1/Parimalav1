@@ -52,4 +52,3 @@ I'm a full-stack developer with 1yr experience seeking employment.
 ### Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
-

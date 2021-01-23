@@ -1,5 +1,5 @@
 ### <div align="center" width="60px"> Hi there 👋 , I'm Parimala! </div>
-I'm a full-stack developer with 1yr experience seeking employment.
+I'm a full-stack web developer with 1yr experience seeking employment.
  
 <br/>  
 

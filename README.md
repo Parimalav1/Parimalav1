@@ -1,6 +1,6 @@
 # <div align="center"> Hi there 👋 , I'm Parimala! </div>
 
-   I'm a full-stack web developer who recently completed a coding school and got endorsed. I’m currently seeking an entry-level role as a front-end? Backend? Full stack? developer.
+   I'm a full-stack web developer.
 
 
  
